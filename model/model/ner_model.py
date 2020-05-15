@@ -8,6 +8,7 @@ import numpy as np
 import os
 import tensorflow as tf
 from sklearn.metrics import f1_score, accuracy_score
+from model.evaluation import precision_recall_f1
 
 
 from .data_utils import minibatches, pad_sequences, get_chunks, create_tag_dict
@@ -307,22 +308,10 @@ class NERModel(BaseModel):
         return metrics["f1"]
 
 
-    def run_evaluate(self, test):
-        """Evaluates performance on test set
-
-        Args:
-            test: dataset that yields tuple of (sentences, tags)
-
-        Returns:
-            metrics: (dict) metrics["acc"] = 98.4, ...
-
-        """
+    def run_evaluate(self, test, short_report=False):
+        """Computes NER quality measures using CONLL shared task script."""
         preds = []
         labels = []
-
-        # index to tag dic
-        indxToTag = create_tag_dict("./data/tags.txt")
-
 
         for words, labs in minibatches(test, self.config.batch_size):
             labels_pred, sequence_lengths = self.predict_batch(words)
@@ -333,13 +322,14 @@ class NERModel(BaseModel):
                 lab = lab[:length]
                 preds.append(lab_pred)
                 labels.append(lab)
+        preds = [self.idx_to_tag[item] for items in preds for item in items]
+        labels = [self.idx_to_tag[item] for items in labels for item in items]
 
-        preds = [indxToTag[item] for items in preds for item in items]
-        labels = [indxToTag[item] for items in labels for item in items]
-        f1 = f1_score(labels, preds, average='micro', labels=['JURISPRUDENCIA', 'LOCAL', 'TEMPO',  'PESSOA', 'LEGISLACAO', 'ORGANIZACAO'])
-        acc = accuracy_score(labels, preds)
+        _, f1= precision_recall_f1(labels, preds, print_results=True, short_report=short_report)
+        acc = accuracy_score(preds, labels)
 
-        return {"acc": 100*acc, "f1": 100*f1}
+        return {"acc": 100*acc, "f1": f1}
+
 
 
     def predict(self, words_raw):

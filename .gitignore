@@ -1,1 +1,3 @@
 model/results/prototype_revised/log.txt
+*__pycache__*
+*.pyc

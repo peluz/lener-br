@@ -60,12 +60,20 @@ The section below summarizes the use of the model. For more in depth explanation
 pip install -r requirements.txt
 ```
 
-* To obtain the f1 scores for each class on each part of the dataset:
+* To obtain the f1 scores (per token) for each class on each part of the dataset:
 ```
 python classScores.py train
 python classScores.py dev
 python classScores.py test
 ```
+
+* To obtain the f1 scores (per entity) for each class on each part of the dataset:
+```
+python evaluate.py train
+python evaluate.py dev
+python evaluate.py test
+```
+
 * To tag a raw text file:
 ```
 python evaluateText path/to/txtfile

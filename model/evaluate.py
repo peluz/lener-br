@@ -26,6 +26,7 @@
 from model.data_utils import CoNLLDataset
 from model.ner_model import NERModel
 from model.config import Config
+import sys
 
 
 def align_data(data):
@@ -92,7 +93,7 @@ input> I love Paris""")
 
 
 def main():
-    # create instance of config
+        # create instance of config
     config = Config()
 
     # build model
@@ -101,13 +102,25 @@ def main():
     model.restore_session(config.dir_model)
 
     # create dataset
-    test  = CoNLLDataset(config.filename_test, config.processing_word,
-                         config.processing_tag, config.max_iter)
+    dataset = sys.argv[1]
+    if dataset == "train":
+        dataset = CoNLLDataset(config.filename_train, config.processing_word,
+                            config.processing_tag, config.max_iter)
+    elif dataset == "dev":
+        dataset = CoNLLDataset(config.filename_dev, config.processing_word,
+                            config.processing_tag, config.max_iter)
+    else:
+        dataset = CoNLLDataset(config.filename_test, config.processing_word,
+                            config.processing_tag, config.max_iter)
 
     # evaluate and interact
-    model.evaluate(test)
+    model.evaluate(dataset)
     interactive_shell(model)
 
+
+if len(sys.argv) != 2 or sys.argv[1] not in ["train", "test", "dev"]:
+        print("Usage: python evaluate.py <train or test or dev>")
+        sys.exit(0)
 
 if __name__ == "__main__":
     main()
