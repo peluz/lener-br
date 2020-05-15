@@ -1,0 +1,343 @@
+2018-05-22 23:36:44,535:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-22 23:36:46,366:INFO: Initializing tf session
+2018-05-22 23:36:47,000:INFO: Epoch 1 out of 55
+2018-05-22 23:42:07,202:INFO: acc 94.13 - f1 78.48
+2018-05-22 23:42:07,478:INFO: - new best score!
+2018-05-22 23:42:07,478:INFO: Epoch 2 out of 55
+2018-05-22 23:47:40,752:INFO: acc 95.60 - f1 83.64
+2018-05-22 23:47:41,372:INFO: - new best score!
+2018-05-22 23:47:41,372:INFO: Epoch 3 out of 55
+2018-05-22 23:53:07,419:INFO: acc 96.60 - f1 87.74
+2018-05-22 23:53:07,689:INFO: - new best score!
+2018-05-22 23:53:07,689:INFO: Epoch 4 out of 55
+2018-05-22 23:58:33,555:INFO: acc 97.00 - f1 88.39
+2018-05-22 23:58:33,824:INFO: - new best score!
+2018-05-22 23:58:33,824:INFO: Epoch 5 out of 55
+2018-05-23 00:03:59,882:INFO: acc 97.02 - f1 88.78
+2018-05-23 00:04:00,152:INFO: - new best score!
+2018-05-23 00:04:00,153:INFO: Epoch 6 out of 55
+2018-05-23 00:09:26,153:INFO: acc 97.28 - f1 89.81
+2018-05-23 00:09:26,420:INFO: - new best score!
+2018-05-23 00:09:26,421:INFO: Epoch 7 out of 55
+2018-05-23 00:14:52,299:INFO: acc 97.27 - f1 89.77
+2018-05-23 00:14:52,299:INFO: Epoch 8 out of 55
+2018-05-23 00:20:18,140:INFO: acc 97.34 - f1 89.73
+2018-05-23 00:20:18,140:INFO: Epoch 9 out of 55
+2018-05-23 00:25:44,711:INFO: acc 97.31 - f1 89.57
+2018-05-23 00:25:44,711:INFO: Epoch 10 out of 55
+2018-05-23 00:31:10,853:INFO: acc 97.41 - f1 90.12
+2018-05-23 00:31:11,122:INFO: - new best score!
+2018-05-23 00:31:11,122:INFO: Epoch 11 out of 55
+2018-05-23 00:36:37,099:INFO: acc 97.29 - f1 89.80
+2018-05-23 00:36:37,099:INFO: Epoch 12 out of 55
+2018-05-23 00:42:03,455:INFO: acc 97.60 - f1 90.69
+2018-05-23 00:42:03,723:INFO: - new best score!
+2018-05-23 00:42:03,723:INFO: Epoch 13 out of 55
+2018-05-23 00:47:29,631:INFO: acc 97.52 - f1 90.48
+2018-05-23 00:47:29,631:INFO: Epoch 14 out of 55
+2018-05-23 00:52:54,901:INFO: acc 97.75 - f1 91.29
+2018-05-23 00:52:55,169:INFO: - new best score!
+2018-05-23 00:52:55,170:INFO: Epoch 15 out of 55
+2018-05-23 00:58:21,600:INFO: acc 97.76 - f1 91.39
+2018-05-23 00:58:21,866:INFO: - new best score!
+2018-05-23 00:58:21,866:INFO: Epoch 16 out of 55
+2018-05-23 01:03:46,992:INFO: acc 98.07 - f1 92.56
+2018-05-23 01:03:47,259:INFO: - new best score!
+2018-05-23 01:03:47,260:INFO: Epoch 17 out of 55
+2018-05-23 01:09:26,120:INFO: acc 97.77 - f1 91.36
+2018-05-23 01:09:26,120:INFO: Epoch 18 out of 55
+2018-05-23 01:14:56,256:INFO: acc 98.06 - f1 92.45
+2018-05-23 01:14:56,256:INFO: Epoch 19 out of 55
+2018-05-23 01:20:21,926:INFO: acc 97.96 - f1 92.08
+2018-05-23 01:20:21,926:INFO: Epoch 20 out of 55
+2018-05-23 01:25:47,957:INFO: acc 97.98 - f1 92.24
+2018-05-23 01:25:47,957:INFO: Epoch 21 out of 55
+2018-05-23 01:31:13,506:INFO: acc 97.86 - f1 91.92
+2018-05-23 01:31:13,506:INFO: Epoch 22 out of 55
+2018-05-23 01:36:38,986:INFO: acc 98.03 - f1 92.47
+2018-05-23 01:36:38,987:INFO: Epoch 23 out of 55
+2018-05-23 01:42:04,155:INFO: acc 98.02 - f1 92.36
+2018-05-23 01:42:04,155:INFO: Epoch 24 out of 55
+2018-05-23 01:47:29,626:INFO: acc 98.06 - f1 92.64
+2018-05-23 01:47:29,893:INFO: - new best score!
+2018-05-23 01:47:29,894:INFO: Epoch 25 out of 55
+2018-05-23 01:52:55,105:INFO: acc 98.02 - f1 92.32
+2018-05-23 01:52:55,105:INFO: Epoch 26 out of 55
+2018-05-23 01:58:20,687:INFO: acc 98.01 - f1 92.34
+2018-05-23 01:58:20,687:INFO: Epoch 27 out of 55
+2018-05-23 02:03:46,075:INFO: acc 97.98 - f1 92.38
+2018-05-23 02:03:46,075:INFO: Epoch 28 out of 55
+2018-05-23 02:09:11,451:INFO: acc 98.05 - f1 92.47
+2018-05-23 02:09:11,451:INFO: Epoch 29 out of 55
+2018-05-23 02:14:37,042:INFO: acc 98.08 - f1 92.57
+2018-05-23 02:14:37,043:INFO: Epoch 30 out of 55
+2018-05-23 02:20:02,654:INFO: acc 98.13 - f1 92.91
+2018-05-23 02:20:02,923:INFO: - new best score!
+2018-05-23 02:20:02,923:INFO: Epoch 31 out of 55
+2018-05-23 02:25:28,555:INFO: acc 98.12 - f1 92.86
+2018-05-23 02:25:28,555:INFO: Epoch 32 out of 55
+2018-05-23 02:30:54,075:INFO: acc 98.06 - f1 92.64
+2018-05-23 02:30:54,075:INFO: Epoch 33 out of 55
+2018-05-23 02:36:19,676:INFO: acc 98.10 - f1 92.77
+2018-05-23 02:36:19,676:INFO: Epoch 34 out of 55
+2018-05-23 02:41:45,233:INFO: acc 98.08 - f1 92.69
+2018-05-23 02:41:45,233:INFO: Epoch 35 out of 55
+2018-05-23 02:47:10,236:INFO: acc 98.13 - f1 92.78
+2018-05-23 02:47:10,236:INFO: Epoch 36 out of 55
+2018-05-23 02:52:35,504:INFO: acc 98.08 - f1 92.60
+2018-05-23 02:52:35,504:INFO: Epoch 37 out of 55
+2018-05-23 02:58:01,160:INFO: acc 98.11 - f1 92.80
+2018-05-23 02:58:01,160:INFO: Epoch 38 out of 55
+2018-05-23 03:03:26,497:INFO: acc 98.10 - f1 92.81
+2018-05-23 03:03:26,497:INFO: Epoch 39 out of 55
+2018-05-23 03:08:52,089:INFO: acc 98.04 - f1 92.57
+2018-05-23 03:08:52,089:INFO: Epoch 40 out of 55
+2018-05-23 03:14:17,451:INFO: acc 98.20 - f1 93.12
+2018-05-23 03:14:17,720:INFO: - new best score!
+2018-05-23 03:14:17,721:INFO: Epoch 41 out of 55
+2018-05-23 03:19:43,094:INFO: acc 98.21 - f1 93.07
+2018-05-23 03:19:43,095:INFO: Epoch 42 out of 55
+2018-05-23 03:25:08,539:INFO: acc 98.12 - f1 92.75
+2018-05-23 03:25:08,539:INFO: Epoch 43 out of 55
+2018-05-23 03:30:34,069:INFO: acc 98.16 - f1 92.91
+2018-05-23 03:30:34,069:INFO: Epoch 44 out of 55
+2018-05-23 03:35:59,777:INFO: acc 98.15 - f1 92.83
+2018-05-23 03:35:59,777:INFO: Epoch 45 out of 55
+2018-05-23 03:41:25,339:INFO: acc 98.10 - f1 92.55
+2018-05-23 03:41:25,339:INFO: Epoch 46 out of 55
+2018-05-23 03:46:50,824:INFO: acc 98.01 - f1 92.36
+2018-05-23 03:46:50,824:INFO: Epoch 47 out of 55
+2018-05-23 03:52:16,141:INFO: acc 98.09 - f1 92.59
+2018-05-23 03:52:16,141:INFO: Epoch 48 out of 55
+2018-05-23 03:57:41,893:INFO: acc 98.15 - f1 92.83
+2018-05-23 03:57:41,894:INFO: Epoch 49 out of 55
+2018-05-23 04:03:07,428:INFO: acc 98.10 - f1 92.65
+2018-05-23 04:03:07,428:INFO: Epoch 50 out of 55
+2018-05-23 04:08:32,992:INFO: acc 98.07 - f1 92.50
+2018-05-23 04:08:32,992:INFO: Epoch 51 out of 55
+2018-05-23 04:13:58,468:INFO: acc 98.16 - f1 92.86
+2018-05-23 04:13:58,468:INFO: Epoch 52 out of 55
+2018-05-23 04:19:23,776:INFO: acc 98.11 - f1 92.64
+2018-05-23 04:19:23,776:INFO: Epoch 53 out of 55
+2018-05-23 04:24:48,985:INFO: acc 98.09 - f1 92.54
+2018-05-23 04:24:48,985:INFO: Epoch 54 out of 55
+2018-05-23 04:30:14,480:INFO: acc 98.10 - f1 92.61
+2018-05-23 04:30:14,480:INFO: Epoch 55 out of 55
+2018-05-23 04:35:40,159:INFO: acc 98.13 - f1 92.78
+2018-05-23 07:55:13,074:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 07:55:14,897:INFO: Initializing tf session
+2018-05-23 07:55:15,139:INFO: Reloading the latest trained model...
+2018-05-23 07:55:15,139:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 07:56:51,092:INFO: Results on data/train.txt set
+2018-05-23 07:56:51,563:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.9970    0.9945    0.9957      3967
+         LOCAL     0.9812    0.9972    0.9891      1417
+         TEMPO     0.9907    0.9983    0.9945      2343
+        PESSOA     0.9991    0.9983    0.9987      4612
+    LEGISLACAO     0.9984    0.9952    0.9968     13039
+   ORGANIZACAO     0.9872    0.9949    0.9910      6671
+
+   avg / total     0.9947    0.9958    0.9952     32049
+
+2018-05-23 07:56:52,054:INFO: 0.9952132221096126
+2018-05-23 07:57:04,456:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 07:57:06,259:INFO: Initializing tf session
+2018-05-23 07:57:06,501:INFO: Reloading the latest trained model...
+2018-05-23 07:57:06,501:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 07:57:24,998:INFO: Results on data/dev.txt set
+2018-05-23 07:57:25,088:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.8793    0.9017    0.8904       743
+         LOCAL     0.8008    0.7746    0.7875       244
+         TEMPO     0.9604    0.9374    0.9487       543
+        PESSOA     0.9921    0.9843    0.9882       894
+    LEGISLACAO     0.9665    0.9398    0.9530      2609
+   ORGANIZACAO     0.9139    0.8843    0.8989      1608
+
+   avg / total     0.9409    0.9218    0.9312      6641
+
+2018-05-23 07:57:25,177:INFO: 0.9311734732679291
+2018-05-23 07:57:47,446:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 07:57:49,356:INFO: Initializing tf session
+2018-05-23 07:57:49,603:INFO: Reloading the latest trained model...
+2018-05-23 07:57:49,603:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 07:58:07,910:INFO: Results on data/test.txt set
+2018-05-23 07:58:08,018:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.8739    0.9030    0.8882       660
+         LOCAL     0.6124    0.5985    0.6054       132
+         TEMPO     0.9115    0.9115    0.9115       260
+        PESSOA     0.9444    0.9252    0.9347       735
+    LEGISLACAO     0.9708    0.9700    0.9704      2669
+   ORGANIZACAO     0.9127    0.8566    0.8838      1367
+
+   avg / total     0.9321    0.9191    0.9253      5823
+
+2018-05-23 07:58:08,123:INFO: 0.9256312694569353
+2018-05-23 08:00:44,518:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 08:00:46,301:INFO: Initializing tf session
+2018-05-23 08:00:46,542:INFO: Reloading the latest trained model...
+2018-05-23 08:00:46,542:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 12:04:03,714:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 12:04:07,049:INFO: Initializing tf session
+2018-05-23 12:04:07,483:INFO: Reloading the latest trained model...
+2018-05-23 12:04:07,483:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 12:06:31,241:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 12:06:34,568:INFO: Initializing tf session
+2018-05-23 12:06:34,971:INFO: Reloading the latest trained model...
+2018-05-23 12:06:34,972:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-05-23 12:07:17,672:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-05-23 12:07:21,101:INFO: Initializing tf session
+2018-05-23 12:07:21,544:INFO: Reloading the latest trained model...
+2018-05-23 12:07:21,544:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-08 10:00:59,267:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-08 10:01:02,555:INFO: Initializing tf session
+2018-06-08 10:01:03,115:INFO: Reloading the latest trained model...
+2018-06-08 10:01:03,116:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-08 10:01:50,212:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-08 10:01:52,068:INFO: Initializing tf session
+2018-06-08 10:01:52,310:INFO: Reloading the latest trained model...
+2018-06-08 10:01:52,310:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 13:49:53,155:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 13:49:56,435:INFO: Initializing tf session
+2018-06-26 13:49:56,973:INFO: Reloading the latest trained model...
+2018-06-26 13:49:56,974:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 13:49:57,509:INFO: Testing model over test set
+2018-06-26 13:50:15,887:INFO: acc 98.47 - f1 92.56
+2018-06-26 13:50:15,887:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-26 13:55:39,071:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 13:55:40,908:INFO: Initializing tf session
+2018-06-26 13:55:41,153:INFO: Reloading the latest trained model...
+2018-06-26 13:55:41,153:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:03:15,476:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:03:17,296:INFO: Initializing tf session
+2018-06-26 14:03:17,538:INFO: Reloading the latest trained model...
+2018-06-26 14:03:17,538:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:03:35,332:INFO: Results on data/dev.txt set
+2018-06-26 14:03:35,471:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.8793    0.9017    0.8904       743
+         LOCAL     0.8008    0.7746    0.7875       244
+         TEMPO     0.9604    0.9374    0.9487       543
+        PESSOA     0.9921    0.9843    0.9882       894
+    LEGISLACAO     0.9665    0.9398    0.9530      2609
+   ORGANIZACAO     0.9139    0.8843    0.8989      1608
+
+   avg / total     0.9409    0.9218    0.9312      6641
+
+2018-06-26 14:03:35,552:INFO: 0.9311734732679291
+2018-06-26 14:03:51,527:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:03:53,366:INFO: Initializing tf session
+2018-06-26 14:03:53,616:INFO: Reloading the latest trained model...
+2018-06-26 14:03:53,616:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:05:37,769:INFO: Results on data/train.txt set
+2018-06-26 14:05:38,284:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.9970    0.9945    0.9957      3967
+         LOCAL     0.9812    0.9972    0.9891      1417
+         TEMPO     0.9907    0.9983    0.9945      2343
+        PESSOA     0.9991    0.9983    0.9987      4612
+    LEGISLACAO     0.9984    0.9952    0.9968     13039
+   ORGANIZACAO     0.9872    0.9949    0.9910      6671
+
+   avg / total     0.9947    0.9958    0.9952     32049
+
+2018-06-26 14:05:38,775:INFO: 0.9952132221096126
+2018-06-26 14:07:21,886:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:07:23,720:INFO: Initializing tf session
+2018-06-26 14:07:23,964:INFO: Reloading the latest trained model...
+2018-06-26 14:07:23,964:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:07:24,054:INFO: Testing model over test set
+2018-06-26 14:07:42,148:INFO: acc 98.47 - f1 92.56
+2018-06-26 14:07:42,148:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-26 14:07:42,152:INFO: Você está preso em nome da Lei          Maria        da           Penha.       
+2018-06-26 14:07:42,152:INFO: O    O    O     O  O    O  B-LEGISLACAO I-LEGISLACAO I-LEGISLACAO I-LEGISLACAO 
+2018-06-26 14:10:32,034:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:10:33,960:INFO: Initializing tf session
+2018-06-26 14:10:34,212:INFO: Reloading the latest trained model...
+2018-06-26 14:10:34,212:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:10:34,301:INFO: Testing model over test set
+2018-06-26 14:10:52,960:INFO: acc 98.33 - f1 86.61
+2018-06-26 14:10:52,960:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-26 14:13:12,314:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:13:14,188:INFO: Initializing tf session
+2018-06-26 14:13:14,434:INFO: Reloading the latest trained model...
+2018-06-26 14:13:14,434:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:14:06,511:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:14:08,331:INFO: Initializing tf session
+2018-06-26 14:14:08,573:INFO: Reloading the latest trained model...
+2018-06-26 14:14:08,573:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2018-06-26 14:30:49,137:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2018-06-26 14:30:50,974:INFO: Initializing tf session
+2018-06-26 14:30:51,218:INFO: Reloading the latest trained model...
+2018-06-26 14:30:51,218:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2020-04-20 17:34:10,288:WARNING: From /home/pedro/anaconda2/envs/law-tagging-api/lib/python3.6/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:198: retry (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use the retry module or similar alternatives.
+2020-04-20 17:34:13,632:INFO: Initializing tf session
+2020-04-20 17:34:13,893:INFO: Reloading the latest trained model...
+2020-04-20 17:34:13,894:INFO: Restoring parameters from results/prototype_revised/model.weights/
+2020-04-20 17:34:33,717:INFO: Results on data/test.txt set
+2020-04-20 17:34:33,847:INFO:                 precision    recall  f1-score   support
+
+JURISPRUDENCIA     0.8739    0.9030    0.8882       660
+         LOCAL     0.6124    0.5985    0.6054       132
+         TEMPO     0.9115    0.9115    0.9115       260
+        PESSOA     0.9444    0.9252    0.9347       735
+    LEGISLACAO     0.9708    0.9700    0.9704      2669
+   ORGANIZACAO     0.9127    0.8566    0.8838      1367
+
+   avg / total     0.9321    0.9191    0.9253      5823
+
+2020-04-20 17:34:33,968:INFO: 0.9256312694569353

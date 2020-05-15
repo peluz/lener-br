@@ -1,0 +1,146 @@
+A C Ó R D Ã O
+
+(3ª Turma)
+
+GMMGD/acl/fmp/jr 
+
+AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PROCESSO SOB A ÉGIDE DA LEI Nº 13.015/14. 1. TERCEIRIZAÇÃO TRABALHISTA. ENTIDADES ESTATAIS. ENTENDIMENTO FIXADO PELO STF NA ADC Nº 16-DF. SÚMULA 331, V, DO TST. RESPONSABILIDADE SUBSIDIÁRIA. NECESSIDADE DE COMPROVAÇÃO DE CONDUTA CULPOSA NO CUMPRIMENTO DAS OBRIGAÇÕES DA LEI 8.666/93 EXPLICITADA NO ACÓRDÃO REGIONAL. 2. JUROS DE MORA. OJ 382/SBDI-1/TST. Em observância ao entendimento fixado pelo STF na ADC nº 16-DF, passou a prevalecer a tese de que a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente contratada, mas apenas quando explicitada no acórdão regional a sua conduta culposa no cumprimento das obrigações da Lei 8.666, de 21.6.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora. No caso concreto, o TRT a quo manteve a condenação subsidiária, delineando, de forma expressa, a culpa in vigilando da entidade estatal. Ainda que a Instância Ordinária mencione fundamentos não acolhidos pela decisão do STF na ADC nº 16-DF, o fato é que, manifestamente, afirmou no decisum que houve culpa in vigilando da entidade estatal quanto ao cumprimento das obrigações trabalhistas pela empresa prestadora de serviços terceirizados. A configuração da culpa in vigilando, caso afirmada pela Instância Ordinária (como ocorreu nos presentes autos), autoriza a incidência da responsabilidade subsidiária da entidade tomadora de serviços (arts. 58 e 67, Lei 8.666/93, 186 e 927 do Código Civil). Agravo de instrumento desprovido.
+
+                     Vistos, relatados e discutidos estes autos de Agravo de Instrumento em Recurso de Revista n° TST-AIRR-801-42.2012.5.02.0315, em que é Agravante EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT e são Agravados JOSÉ ARIMACIR DE SOUSA e BRAZILIAN EXPRESS TRANSPORTES AÉREOS LTDA.
+
+                     O Tribunal Regional do Trabalho de origem denegou seguimento ao recurso de revista da Parte Recorrente.
+
+                     Inconformada, a Parte interpõe o presente agravo de instrumento, sustentando que o seu apelo reunia condições de admissibilidade.
+
+                     Dispensada a remessa dos autos ao Ministério Público do Trabalho, nos termos do art. 83, § 2º, do RITST.
+
+                     PROCESSO SOB A ÉGIDE DA LEI Nº 13.015/14.
+
+                     PROCESSO ELETRÔNICO.
+
+                     É o relatório.
+
+                     V O T O
+
+                     I) CONHECIMENTO
+
+                     Atendidos todos os pressupostos recursais, CONHEÇO do apelo.
+
+                     II) MÉRITO
+
+                     1. TERCEIRIZAÇÃO TRABALHISTA. ENTIDADES ESTATAIS. ENTENDIMENTO FIXADO PELO STF NA ADC Nº 16-DF. SÚMULA 331, V, DO TST. RESPONSABILIDADE SUBSIDIÁRIA. NECESSIDADE DE COMPROVAÇÃO DE CONDUTA CULPOSA NO CUMPRIMENTO DAS OBRIGAÇÕES DA LEI 8.666/93 EXPLICITADA NO ACÓRDÃO REGIONAL. 2. JUROS DE MORA. OJ 382/SBDI-1/TST
+
+                     O Tribunal Regional de origem, quanto aos temas, assim decidiu:
+
+    "Responsabilidade subsidiária do segundo reclamado
+
+    No julgamento da ação declaratória de constitucionalidade - ADC 16 - ajuizada pelo governo do Distrito Federal, o STF declarou a constitucionalidade do § 1º do art. 71 da Lei nº 8.666/93, obstando à Justiça do Trabalho a aplicação automática de responsabilidade subsidiária à Administração Pública em face do inadimplemento dos direitos trabalhistas, tal como se extraía da literalidade do inciso IV da Súmula nº 331 do TST.
+
+    O art. 71, § 1º, da Lei nº 8.666/93 dispõe:
+
+    Art. 71. O contratado é responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+
+    § 1º A inadimplência do contratado, com referência aos encargos trabalhistas, fiscais e comerciais não transfere à Administração Pública a responsabilidade por seu pagamento, nem poderá onerar o objeto do contrato ou restringir a regularização e o uso das obras e edificações, inclusive perante o Registro de Imóveis.
+
+    Ainda, em tal julgamento concluiu-se que a norma do § 1º do art. 71 da Lei nº 8.666/93 não fere a Constituição e deve ser observada pela Justiça do Trabalho, o que impede a aplicação de responsabilidade subsidiária à Administração Pública de forma automática, pela só constatação de inadimplemento dos direitos laborais pela empresa contratada.
+
+    Dessa forma, a constitucionalidade, ou não, do art. 71 da Lei 8.666/93 já está superada, em face do decidido pelo E. STF.
+
+    Na linha desse entendimento, o C. TST, por meio da Resolução 174/2011, publicada no DeJT de 27/05/2011, inseriu o item V na Súmula 331 nos seguintes termos, verbis:
+
+    "V - Os entes integrantes da Administração Pública direta e indireta respondem subsidiariamente, nas mesmas condições do item IV, caso evidenciada a sua conduta culposa no cumprimento das obrigações da Lei nº 8.666, de 21.06.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora. A aludida responsabilidade não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente contratada."
+
+    Diante do julgamento da ADC 16 pelo E. STF e do item "V" da Súmula 331 do C. TST, não há que se falar em condenação subsidiária apenas em razão da inadimplência da empresa contratada para com seus empregados. A mera existência do contrato de prestação de serviços entre as reclamadas e o inadimplemento das obrigações trabalhistas por parte da 1ª reclamada não significa prova de culpa da segunda ré, que não pode ser presumida.
+
+    Contudo, também é certo que segundo a teoria da distribuição dinâmica do ônus da prova, a prova incumbe a quem tem melhores condições de produzi-la, de modo que se impõe à Administração Pública, sempre que acionada a responder pelos contratos de terceirização que realiza, o dever de provar a efetiva fiscalização da empresa contratada.
+
+    Na particular situação em exame, as reclamadas foram condenadas no pagamento dos seguintes títulos: verbas rescisórias (em virtude do reconhecimento da rescisão indireta em 01/12/2010, último dia de trabalho do autor em prol das reclamadas); reflexos das parcelas pagas extra recibo; adicional de periculosidade com reflexos, compensação orgânica; diferenças de horas laboradas em voo e em solo, com reflexos, diferenças do FGTS mais 40% (fls. 398).
+
+    A primeira reclamada foi declarada revel em virtude de sua ausência à audiência inicial (fls. 197) embora regularmente citada (fls. 199).
+
+    A recorrente apresentou defesa e juntou documentos (anexo) comprovando a regularidade dos depósitos do FGTS (documento nº 11 e 33) e certidão negativa de débitos de contribuições previdenciárias (documento nº 13 e 35) ambos emitidos em abril de 2009.
+
+    Porém, conforme observado pelo Juízo de origem, a primeira ré não efetuava o pagamento correto das horas laboradas pelo autor, realizou pagamentos à margem dos recibos oficiais (fls. 181/185), não remunerava o adicional de periculosidade, deixou de recolher o FGTS a partir de agosto de 2009 (fls. 186) e não quitou as verbas rescisórias. Assim, constata-se que a tomadora não fiscalizou integralmente o cumprimento das obrigações trabalhistas por parte da contratante. Oportuno registrar que a única testemunha ouvida, convidada pelo autor, declarou que "...todos os voos que com o reclamante eram em favor da 2ª reclamada; os funcionários da 2ª reclamada monitoravam as cargas, motivo pelo qual acabavam se envolvendo com os serviços realizados pelo reclamante e pelo depoente..." (fls. 384 verso). Assim, pode-se concluir que a segunda reclamada acompanhava diretamente o trabalho do autor.
+
+    Vale ressaltar que a prova incumbe a quem tem melhores condições de produzi-la, de modo que se impõe à Administração Pública, sempre que acionada a responder pelos contratos de terceirização que realiza, o dever de demonstrar a efetiva fiscalização da empresa contratada.
+
+    Não o fez, contudo.
+
+    A ECT não apresentou nenhum elemento de prova que demonstrasse a efetiva fiscalização da contratada durante todo período em que o reclamante prestou serviços em seu benefício, evidenciando que incorreu na culpa in vigilando, o que atrai a responsabilidade subsidiária.
+
+    Mantenho, portanto, a condenação subsidiária imposta à segunda reclamada.
+
+    Juros de mora
+
+    Fica inalterada a taxa de juros de mora, no caso de condenação subsidiária da administração pública, ante os termos da OJ 382 da SDI-1 do TST, in verbis:
+
+    382. JUROS DE MORA. ART. 1º-F DA LEI Nº 9.494, DE 10.09.1997. INAPLICABILIDADE À FAZENDA PÚBLICA QUANDO CONDENADA SUBSIDIARIAMENTE. A Fazenda Pública, quando condenada subsidiariamente pelas obrigações trabalhistas devidas pela empregadora principal, não se beneficia da limitação dos juros, prevista no art. 1º-F da Lei nº 9.494, de 10.09.1997.
+
+    No mesmo sentido é a Súmula nº 09 deste Tribunal Regional, que utilizo como razão de decidir, in verbis: "Nº 009. JUROS DE MORA. FAZENDA PÚBLICA. É DE 0,5% A TAXA DE JUROS A SER OBSERVADA NAS SENTENÇAS PROFERIDAS CONTRA A FAZENDA PÚBLICA, POR FORÇA DA MP Nº 2.180-35 DE 24/8/2001, INCLUSIVE NAS EXECUÇÕES EM CURSO, PORÉM, PREVALECE A TAXA DE 1% PREVISTA NO ART. 39 DA LEI 8.177/91 QUANDO A FAZENDA PÚBLICA FIGURA NO PROCESSO COMO DEVEDORA SUBSIDIÁRIA (Res. Nº 01/2009 - DOEletrônico 28/07/2009)".
+
+    Nada a reformar." (g.n.)
+
+                     A Parte, em suas razões recursais, pugna pela reforma do acórdão regional.
+
+                     Sem razão.
+
+                     No que concerne ao tema "responsabilidade subsidiária", registre-se que a proteção da sociedade, incluída a defesa do trabalhador, e a presunção de legalidade de que se revestem os atos administrativos - que são, inclusive, em regra, aspectos elementares na atuação da Administração Pública, como guardiã do cumprimento de direitos garantidos pelo Texto Constitucional - exigem rigor ao se interpretar e adequar a hipótese de incidência à previsão legislativa e jurisprudencial no caso de se reconhecer, ou não, a responsabilidade subsidiária da entidade estatal por eventuais débitos trabalhistas inadimplidos pela empresa prestadora dos serviços.
+
+                     Essa proteção constitui-se de um conjunto de direitos e deveres laborais de larga envergadura que têm implicações sociais, políticas e econômicas, a exemplo dos princípios constitucionais fundamentais listados na Constituição da República de 1988, como no art. 1º (dignidade da pessoa humana, valor social do trabalho e da livre iniciativa), bem como os direitos fundamentais que se consolidam por meio de princípios ligados aos direitos sociais (arts. 6º e 7º), à ordem econômica (art. 170), à seguridade social (art. 194), à saúde (art. 196), à assistência social (art. 203), à cultura (art. 215), entre outros dispositivos constitucionais.
+
+                     O Supremo Tribunal Federal, ao decidir a ADC nº 16-DF, reverteu a interpretação sedimentada há duas décadas na jurisprudência trabalhista no sentido de que as entidades estatais - a exemplo das demais pessoas físicas e jurídicas - eram firmemente responsáveis por verbas contratuais e legais trabalhistas dos trabalhadores terceirizados na área estatal, caso houvesse inadimplemento por parte do empregador terceirizante (Súmula 331, antigo item IV, TST).
+
+                     Para o STF, é necessária a efetiva presença de culpa in vigilando da entidade estatal ao longo da prestação de serviços (STF, ADC nº 16-DF).
+
+                     Observados tais parâmetros, é preciso perceber, no caso concreto, se o ente público agiu com culpa para a ocorrência do inadimplemento dos débitos trabalhistas. Essa é a direção interpretativa apontada pelo STF ao julgar a ADC nº 16-DF. Se não resultar claramente evidenciada a ação ou omissão, direta ou indireta, na modalidade culposa, do agente público em detrimento do contrato administrativo para a prestação de serviços terceirizados, não há como identificar a responsabilidade da Administração Publica em relação às obrigações trabalhistas da prestadora de serviços, à luz do art. 71, § 1º, da Lei 8.666/1993. Repita-se: essa é a linha do entendimento atual do Supremo Tribunal Federal, em vista do decidido na ADC nº 16-DF.
+
+                     Em observância a esse entendimento, o TST alinhou-se à tese de que a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta não decorre de mero inadimplemento das obrigações trabalhistas assumidas pela empresa regularmente contratada, mas apenas quando explicitada no acórdão regional a sua conduta culposa no cumprimento das obrigações da Lei 8.666, de 21.6.1993, especialmente na fiscalização do cumprimento das obrigações contratuais e legais da prestadora de serviço como empregadora (artigos 58 e 67, Lei 8.666/93) - novo item V da Súmula 331 do TST.
+
+                     Nesse quadro, a mera culpa in eligendo não autoriza, por si só, deduzir a responsabilidade do Poder Público pelos débitos inadimplidos pela empregadora, segundo o STF. A propósito, segundo a Corte Máxima, tendo sido seguido o procedimento licitatório sequer se pode falar em culpa in eligendo.
+
+                     Também não há que se falar, em tais casos de terceirização, em responsabilidade objetiva, a teor da jurisprudência advinda da Corte Máxima.
+
+                     Porém, naturalmente, se houver clara, inquestionável culpa da entidade estatal tomadora de serviços quanto à fiscalização da conduta da empresa terceirizante relativamente ao cumprimento de suas obrigações trabalhistas, incidirá a responsabilidade subsidiária, por força de outros preceitos legais, além do art. 71, caput e § 1º da Lei de Licitações. Havendo manifesta ou demonstrada culpa in vigilando, incidem preceitos responsabilizatórios concorrentes, tais como os artigos 58, III, 67, caput e §1º da Lei 8.666/93 e os artigos 186 e 927 do Código Civil.
+
+                     No caso concreto, o TRT a quo manteve a condenação subsidiária, por delinear, de forma expressa e enfática, a culpa in vigilando da entidade estatal, nos termos do item V da Súmula 331 do TST.
+
+                     Ainda que a Instância Ordinária mencione fundamentos não acolhidos pela decisão do STF na ADC nº 16-DF, o fato é que, manifestamente, afirmou no decisum que houve culpa in vigilando da entidade estatal quanto ao cumprimento das obrigações trabalhistas pela empresa prestadora de serviços terceirizados. A configuração da culpa in vigilando, caso afirmada pela Instância Ordinária (como ocorreu nos presentes autos), reitere-se, autoriza a incidência da responsabilidade subsidiária da entidade tomadora de serviços (arts. 58 e 67, Lei 8.666/93, 186 e 927 do Código Civil).
+
+                     A decisão regional encontra-se, portanto, em consonância com o fundamento acolhido pelo STF no julgamento da ADC da entidade pública: a demonstração de omissão no dever de fiscalizar. Inclusive, em diversas oportunidades em que o tema foi levado a debate naquela Corte, posteriormente ao julgamento da citada ação declaratória de constitucionalidade, a compreensão que se extraiu da matéria foi no sentido de que, se demonstrada a ocorrência de conduta culposa na fiscalização da execução dos contratos celebrados, a Administração Pública se sujeitará ao reconhecimento de sua responsabilidade subsidiária pela Justiça do Trabalho. Confiram-se, a propósito, as seguintes decisões: Rcl 13941 MC / MG, Relator Ministros Cezar Peluso, DJE 31/08/2012; Rcl 13272 / MG, Relatora Ministra Rosa Weber, DJE 03/09/2012; Rcl 14672 MC / SP, Relator Ministro Luiz Fux, DJE 17/10/2012; Rcl 14683 MC / SP, Relator Ministro Joaquim Barbosa, DJE 23/10/2012; Rcl 14801 MC / SP, Relator Ministro Ricardo Lewandowski, DJE 05/11/2012.
+
+                     Frise-se que em nenhum momento afasta-se a aplicação do art. 71, § 1º, da Lei 8.666/93, mas apenas interpreta-se o dispositivo legal à luz da jurisprudência sumulada desta Corte. Esse entendimento não contraria o disposto na Súmula Vinculante nº 10 do STF, tampouco viola o art. 97 da CF.
+
+                     De outra face, decidida a matéria com base no conjunto probatório produzido nos autos, o processamento do recurso de revista fica obstado, por depender do reexame de fatos e provas (Súmula 126/TST).
+
+                     No que tange ao tema "juros de mora", saliente-se que o Tribunal Regional decidiu de acordo com o entendimento desta Corte consolidado na OJ 382/SBDI-1/TST.
+
+                     Assim, a decisão apresenta-se em conformidade com a jurisprudência consolidada do TST, o que torna inviável o exame das indicadas violações de dispositivo legal e/ou constitucional, bem como superada a eventual divergência jurisprudencial (Súmula 333 do TST e art. 896, §7º, da CLT).
+
+                     Ressalte-se que as vias recursais extraordinárias para os tribunais superiores (STF, STJ, TST) não traduzem terceiro grau de jurisdição; existem para assegurar a imperatividade da ordem jurídica constitucional e federal, visando à uniformização jurisprudencial na Federação. Por isso seu acesso é notoriamente restrito, não permitindo cognição ampla.
+
+                     Não se constata haver a demonstração, no recurso de revista, de jurisprudência dissonante específica sobre os temas, de interpretação divergente de normas regulamentares ou de violação direta de dispositivo de lei federal ou da Constituição da República, nos moldes das alíneas "a", "b" e "c" do art. 896 da CLT.
+
+                     Pelo exposto, NEGO PROVIMENTO ao agravo de instrumento.
+
+                     ISTO POSTO
+
+                     ACORDAM os Ministros da Terceira Turma do Tribunal Superior do Trabalho, por unanimidade, negar provimento ao agravo de instrumento.
+
+                     Brasília, 09 de março de 2016.
+
+Firmado por assinatura digital (MP 2.200-2/2001)
+
+Mauricio Godinho Delgado
+
+Ministro Relator
+
+
+fls.
+
+PROCESSO Nº TST-AIRR-801-42.2012.5.02.0315
+
+
+
+Firmado por assinatura digital em 09/03/2016 pelo sistema AssineJus da Justiça do Trabalho, conforme MP 2.200-2/2001, que instituiu a Infra-Estrutura de Chaves Públicas Brasileira.
+
+

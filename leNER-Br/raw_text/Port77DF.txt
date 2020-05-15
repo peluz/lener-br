@@ -1,0 +1,79 @@
+PORTARIA Nº 77, DE 20 DE DEZEMBRO DE 2017 O SECRETÁRIO DE ESTADO DE MOBILIDADE DO DISTRITO FEDERAL, Respondendo,
+no uso das atribuições que lhe confere o artigo 59, inciso II, do Regimento aprovado
+pelo Decreto nº 38.036, de 03 de março de 2017,
+Considerando as disposições da Lei nº 5.691, de 2 de agosto de 2016 que trata sobre a
+prestação do Serviço de Transporte Individual Privado de Passageiros Baseado em Tecnologia
+de Comunicação em Rede no Distrito Federal - STIP/DF;
+Considerando que a competência da Unidade Gestora do STIP/DF elencada no Decreto nº
+38.258 de 7 de junho de 2017 em seu art. 5º, inciso IV para receber, armazenar e manter
+organizadas e atualizadas as bases de dados e informações relacionadas ao Serviço;
+Considerando o dever das empresas operadoras prestar informações relativas à prestação de
+serviços e disponibilizar à Secretaria de Mobilidade do Distrito Federal os dados relacionados
+aos serviços prestados no STIP/DF conforme dispõe o art. 19, inciso III e o art. 23
+do Decreto 38.258/2017;
+Considerando a relevância dos dados do STIP/DF para o planejamento de programas e ações
+da Secretaria de Estado de Mobilidade do Distrito Federal - SEMOB/DF, RESOLVE:
+Art. 1º A empresa operadora deverá encaminhar à SEMOB/DF, mensalmente, até o quinto
+dia útil, um arquivo de dados referente ao mês anterior, contendo a quantidade total de
+viagens realizadas e a quantidade total, em quilômetros, da distância percorrida para cada par
+de origem e destino (Matriz Origem-Destino) definido pela Secretaria conforme o anexo
+desta Portaria.
+Art. 2º Os locais estabelecidos como origem e destino são estabelecidos pela SEMOB/DF
+conforme a seguinte disposição:
+I - Aeroporto;
+II - Águas Claras;
+III - Brazlândia;
+IV - Candangolândia;
+V - Ceilândia;
+VI - Cruzeiro;
+VII - Fercal;
+VIII - Gama;
+IX - Guará;
+X - Itapoã;
+XI - Jardim Botânico;
+XII - Lago Norte;
+XIII - Lago Sul;
+XIV - Núcleo Bandeirante;
+XV - Paranoá;
+XVI - Park Way;
+XVII - Planaltina;
+XVIII - Plano Piloto Centro;
+XIX - Plano Piloto Norte;
+XX - Plano Piloto Sul;
+XXI - Recanto das Emas;
+XXII - Riacho Fundo I;
+XXIII - Riacho Fundo II;
+XXIV - Samambaia;
+XXV - Santa Maria;
+XXVI - São Sebastião;
+XXVII - SCIA (Cidade do Automóvel e Estrutural);
+XXVIII - SIA e Setores Complementares;
+XXIX - Sobradinho;
+XXX - Sobradinho II;
+XXXI - Sudoeste/Octogonal;
+XXXII - Taguatinga;
+XXXIII - Varjão;
+XXXIV - Vicente Pires;
+XXXV - Universidade de Brasília;
+XXXVI - Vila Planalto;
+XXXVII - Águas Lindas de Goiás;
+XXXVIII - Cidade Ocidental;
+XXXIX - Formosa;
+XL - Luziânia;
+XLI - Novo Gama;
+XLII - Planaltina de Goiás;
+XLIII - Santo Antônio do Descoberto;
+XLIV - Valparaíso;
+XLV - Demais Municípios de Goiás;
+XLVI - Minas Gerais;
+XLVII - Demais Localidades.
+Parágrafo único. O rol elencado neste artigo é meramente exemplificativo, podendo, portanto,
+ser alterado pelo Poder Público sem a necessidade de republicação desta Portaria.
+Art. 3º A SEMOB/DF disponibilizará, para a empresa operadora, o arquivo shapefile com as
+coordenadas vetoriais para os locais definidos no artigo anterior.
+§ 1º A qualquer tempo, a Secretaria poderá modificar as feições definidas para os locais
+estabelecidos, além de acrescentar ou suprimir outros locais de acordo com sua conveniência
+e oportunidade, modificando o arquivo shapefile.
+§ 2 º Em caso de modificação, conforme o parágrafo anterior, será enviada à empresa operadora a versão mais atualizada do arquivo, com uma antecedência de 30 dias para a
+adequação dos sistemas envolvidos.
+Art. 4º Esta Portaria entra em vigor na data de sua publicação DÊNIS DE MOURA SOARES
