@@ -1,4 +1,4 @@
-# leNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text
+# LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text
 
 This repo holds the dataset and source code described in the paper below, which was generated as a collaboration between two institutions of the University of Brasília: [NEXT (Núcleo de P&D para Excelência e Transformação do Setor Público)](http://next.unb.br/) and [CiC (Departamento de Ciência da Computação)](https://cic.unb.br/).
 
