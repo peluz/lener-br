@@ -2,10 +2,29 @@
 
 This repo holds the dataset and source code described in the paper below, which was generated as a collaboration between two institutions of the University of Brasília: [NEXT (Núcleo de P&D para Excelência e Transformação do Setor Público)](http://next.unb.br/) and [CiC (Departamento de Ciência da Computação)](https://cic.unb.br/).
 
-* [Pedro H. Luz de Araujo](http://lattes.cnpq.br/8374005378743328), [Teófilo E. de Campos](http://www.cic.unb.br/~teodecampos/), [Renato R. R. de Oliveira](http://lattes.cnpq.br/8445622450972512), [Matheus Stauffer](http://lattes.cnpq.br/3634456971616689), [Samuel Couto](http://lattes.cnpq.br/1096145820609591) and [Paulo Bermejo](http://lattes.cnpq.br/9012704117180126)
-[LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018.pdf)
-[International Conference on the Computational Processing of Portuguese (PROPOR), September 24-26, Canela, Brazil, 2018](http://www.inf.ufrgs.br/propor-2018/).
+* [Pedro H. Luz de Araujo](http://lattes.cnpq.br/8374005378743328), [Teófilo E. de Campos](http://www.cic.unb.br/~teodecampos/), [Renato R. R. de Oliveira](http://lattes.cnpq.br/8445622450972512), [Matheus Stauffer](http://lattes.cnpq.br/3634456971616689), [Samuel Couto](http://lattes.cnpq.br/1096145820609591) and [Paulo Bermejo](http://lattes.cnpq.br/9012704117180126)  
+[LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018.pdf)  
+[International Conference on the Computational Processing of Portuguese (PROPOR), September 24-26, Canela, Brazil, 2018](http://www.inf.ufrgs.br/propor-2018/).  
 Download PDFs of the [paper](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018.pdf) and [slides](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018_slides.pdf).
+
+```
+@InProceedings{luz_etal_propor2018,
+          author = {Pedro H. {Luz de Araujo} and Te\'{o}filo E. {de Campos} and
+          Renato R. R. {de Oliveira} and Matheus Stauffer and
+          Samuel Couto and Paulo Bermejo},
+          title = {{LeNER-Br}: a Dataset for Named Entity Recognition in {Brazilian} Legal Text},
+          booktitle = {International Conference on the Computational Processing of Portuguese
+          ({PROPOR})},
+	  publisher = {Springer},
+	  series = {Lecture Notes on Computer Science ({LNCS})},
+	  pages = {313--323},
+          year = {2018},
+          month = {September 24-26},
+          address = {Canela, RS, Brazil},	  
+	  doi = {10.1007/978-3-319-99722-3_32},
+	  url = {https://cic.unb.br/~teodecampos/LeNER-Br/},
+	  }	  
+```
 
 We also provide the LSTM-CRF model described in the paper, which achieved an average f1-score of 92.53% (token) and 86.61% (entity) on the test set. 
 
