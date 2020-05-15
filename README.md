@@ -36,7 +36,7 @@ We kindly request that users cite our paper in any publication that is generated
 1. [Python 3.6](https://www.python.org/downloads/)	
 3. [pip](https://pip.pypa.io/en/stable/installing/)
 
-## leNER-Br Dataset
+## LeNER-Br Dataset
 
 The directory structure is as follows:
 * the train, test and dev folders hold space separated text files where the first column are the words and the second column are the correspondent named entity tags. Sentences are separeted by empty lines. In addition, each folder has a file that is the concatenation of all the other conll files of the same folder (train.conll, dev.conll and test.conll).
@@ -53,7 +53,7 @@ python textToConll.py path/to/txtfile
 The model code is adapted from [this repo](https://github.com/guillaumegenthial/sequence_tagging) and implements a NER model using Tensorflow (LSTM + CRF + chars embeddings). All code files modified are marked as such at the beginning.
 The section below summarizes the use of the model. For more in depth explanations of how to use the model and change its configurations refer to the README of the original implementation.
 
-###Evaluation
+### Evaluation
 
 * To install the required python packages, run from the model folder:
 ```
