@@ -10,11 +10,11 @@ Download PDFs of the [paper](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_p
 ```
 @InProceedings{luz_etal_propor2018,
           author = {Pedro H. {Luz de Araujo} and Te\'{o}filo E. {de Campos} and
-          Renato R. R. {de Oliveira} and Matheus Stauffer and
-          Samuel Couto and Paulo Bermejo},
+                    Renato R. R. {de Oliveira} and Matheus Stauffer and
+                    Samuel Couto and Paulo Bermejo},
           title = {{LeNER-Br}: a Dataset for Named Entity Recognition in {Brazilian} Legal Text},
           booktitle = {International Conference on the Computational Processing of Portuguese
-          ({PROPOR})},
+                       ({PROPOR})},
 	  publisher = {Springer},
 	  series = {Lecture Notes on Computer Science ({LNCS})},
 	  pages = {313--323},
@@ -23,7 +23,7 @@ Download PDFs of the [paper](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_p
           address = {Canela, RS, Brazil},	  
 	  doi = {10.1007/978-3-319-99722-3_32},
 	  url = {https://cic.unb.br/~teodecampos/LeNER-Br/},
-	  }	  
+}	  
 ```
 
 We also provide the LSTM-CRF model described in the paper, which achieved an average f1-score of 92.53% (token) and 86.61% (entity) on the test set. 
@@ -31,6 +31,8 @@ We also provide the LSTM-CRF model described in the paper, which achieved an ave
 The sections below describe the requirements and the dataset and model files.
 
 We kindly request that users cite our paper in any publication that is generated as a result of the use of our source code, our dataset or our pre-trained models.
+
+**Note**: although this GitHub repository was created in May 2020 to increase the visibility of this project, the dataset and source code has been available from the [site of the authors](https://cic.unb.br/~teodecampos/LeNER-Br/) since September 2018.
 
 ## Requirements
 1. [Python 3.6](https://www.python.org/downloads/)	
