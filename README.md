@@ -2,10 +2,10 @@
 
 This repo holds the dataset and source code described in the paper below, which was generated as a collaboration between two institutions of the University of Brasília: [NEXT (Núcleo de P&D para Excelência e Transformação do Setor Público)](http://next.unb.br/) and [CiC (Departamento de Ciência da Computação)](https://cic.unb.br/).
 
-* [Pedro H. Luz de Araujo](http://lattes.cnpq.br/8374005378743328), [Teófilo E. de Campos](http://www.cic.unb.br/~teodecampos/), [Renato R. R. de Oliveira](http://lattes.cnpq.br/8445622450972512), [Matheus Stauffer](http://lattes.cnpq.br/3634456971616689), [Samuel Couto](http://lattes.cnpq.br/1096145820609591) and [Paulo Bermejo](http://lattes.cnpq.br/9012704117180126)  
-[LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018.pdf)  
+* [Pedro H. Luz de Araujo](http://lattes.cnpq.br/8374005378743328), [Teófilo E. de Campos](https://teodecampos.github.io/), [Renato R. R. de Oliveira](http://lattes.cnpq.br/8445622450972512), [Matheus Stauffer](http://lattes.cnpq.br/3634456971616689), [Samuel Couto](http://lattes.cnpq.br/1096145820609591) and [Paulo Bermejo](http://lattes.cnpq.br/9012704117180126)  
+[LeNER-Br: a Dataset for Named Entity Recognition in Brazilian Legal Text](https://teodecampos.github.io/luz_etal_propor2018.pdf)  
 [International Conference on the Computational Processing of Portuguese (PROPOR), September 24-26, Canela, Brazil, 2018](http://www.inf.ufrgs.br/propor-2018/).  
-Download PDFs of the [paper](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018.pdf) and [slides](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_propor2018_slides.pdf).
+Download PDFs of the [paper](https://teodecampos.github.io/LeNER-Br/luz_etal_propor2018.pdf) and [slides](https://teodecampos.github.io/LeNER-Br/luz_etal_propor2018_slides.pdf).
 
 ```
 @InProceedings{luz_etal_propor2018,
@@ -22,7 +22,7 @@ Download PDFs of the [paper](https://cic.unb.br/~teodecampos/LeNER-Br/luz_etal_p
           month = {September 24-26},
           address = {Canela, RS, Brazil},	  
 	  doi = {10.1007/978-3-319-99722-3_32},
-	  url = {https://cic.unb.br/~teodecampos/LeNER-Br/},
+	  url = {https://teodecampos.github.io/LeNER-Br/},
 }	  
 ```
 
@@ -32,7 +32,7 @@ The sections below describe the requirements and the dataset and model files.
 
 We kindly request that users cite our paper in any publication that is generated as a result of the use of our source code, our dataset or our pre-trained models.
 
-**Note**: although this GitHub repository was created in May 2020 to increase the visibility of this project, the dataset and source code has been available from the [site of the authors](https://cic.unb.br/~teodecampos/LeNER-Br/) since September 2018.
+**Note**: although this GitHub repository was created in May 2020 to increase the visibility of this project, the dataset and source code has been available from the [site of the authors](https://teodecampos.github.io/LeNER-Br/) since September 2018.
 
 ## Requirements
 1. [Python 3.6](https://www.python.org/downloads/)	
